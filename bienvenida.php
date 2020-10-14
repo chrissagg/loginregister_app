@@ -26,7 +26,7 @@
     <title>Bienvenid@</title>
 </head>
 <body>
-    <h1>Bienvenido a mi mundo</h1>
+    <h1>Bienvenid@s a mi app</h1>
     <a href="php/cerrar_sesion.php">Cerrar sesión</a>
 </body>
 </html>
